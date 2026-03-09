@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ララバイ",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T11:07:55.050352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "X3(バイバイ)ララバイ - 2012 Remaster",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/01_X3(バイバイ)ララバイ_-_2012_Remaster_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "X3（バイバイ）ララバイ",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/02_X3(バイバイ)ララバイ_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カナディアン・ララバイ",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/03_カナディアン・ララバイ_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハイスクール ララバイ",
+      "artist": "Imokin Trio",
+      "has_synced": false,
+      "path": "select/04_ハイスクール_ララバイ_Imokin_Trio.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ララバイ☆あ・げ・た・い",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/05_ララバイ☆あ・げ・た・い_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lullaby Sarabai [ララバイ サラバイ]",
+      "artist": "clammbon",
+      "has_synced": false,
+      "path": "select/06_Lullaby_Sarabai_[ララバイ_サラバイ]_clammbon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ララバイ",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/07_ララバイ_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スペースシャトル・ララバイ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/08_スペースシャトル・ララバイ_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ファンタジック/ドラマチック/ララバイ",
+      "artist": "ふくろうず",
+      "has_synced": false,
+      "path": "select/09_ファンタジック_ドラマチック_ララバイ_ふくろうず.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハイスクール・ララバイ",
+      "artist": "イモ欽トリオ",
+      "has_synced": false,
+      "path": "select/10_ハイスクール・ララバイ_イモ欽トリオ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハイスクール ララバイ",
+      "artist": "イモ欽トリオ",
+      "has_synced": false,
+      "path": "select/11_ハイスクール_ララバイ_イモ欽トリオ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ララバイ",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_ララバイ_FINLANDS.txt"
+    }
+  ]
+}
